@@ -1,0 +1,14 @@
+.header__container{
+    width: 60%;
+    margin: auto;
+    margin-top: 1em;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+}
+.header__image{
+    object-fit: contain;
+}
+.header__btnholder{
+    margin-left: 40em;
+}
